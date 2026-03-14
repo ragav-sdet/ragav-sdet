@@ -1,4 +1,4 @@
-# <p align="center">🛠 Ragav | Automation Lead & Product Architect</p>
+# <p align="center">🛠 Ragav | Automation Lead > AI-Augmented Product Architect</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
