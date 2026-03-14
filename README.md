@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am an <strong>Automation Test Lead</strong> by profession and a <strong>Technical Architect</strong> by passion. I leverage LLMs (Llama, Gemma) to accelerate development, but I personally oversee the architecture—refining every line of code to ensure production-grade logic and security.
+  I am an <strong>Automation Test Lead</strong> by profession and a <strong>Technical Architect</strong> by passion. I leverage LLMs to accelerate development, but I personally oversee the architecture—refining every line of code to ensure production-grade logic and security.
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 ## 📈 Dev Philosophy
-> "AI and I curates the draft; I provide the direction. I don't just generate—I fix, I refactor, and I lead."
+> "AI and I curate the draft; I provide the direction. I don't just generate—I fix, I refactor, and I lead."
 
 ---
 <p align="center">
