@@ -26,9 +26,9 @@
 
 ### 📱 BlockBook (Active Development)
 **Solo Architect & Developer**
-* **The Mission:** A high-integrity residential management platform for Android.
-* **The Logic:** Custom invite-only onboarding with a unique `Building + Area + Pincode` validation to ensure zero data duplication.
-* **Future:** Expanding from a native Android core to a cross-platform ecosystem.
+* **The Mission:** A high-integrity residential ledger that actually respects privacy and data flow.
+* **The Engineering:** Custom invite-only onboarding, strict state management, and line-by-line curated native Android UI.
+* **User Support & Legal:** [BlockBook Privacy Policy](https://sites.google.com/view/blockbook-privacy-policy/home)
 
 ### 🤖 AI & Automation Lab
 * **QA AI Assistant:** Custom-tuned interfaces using **Llama** and **Gemma** to streamline testing workflows.
