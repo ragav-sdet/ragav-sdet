@@ -1,4 +1,10 @@
-# <p align="center">🛠 Ragav | Automation Lead > AI-Augmented Product Architect</p>
+<div align="center">
+
+# 🛠 Ragav | Automation Lead ⚡ Solo Builder
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=800&lines=Writing+bulletproof+test+frameworks+by+day.;Architecting+zero-bs+native+apps+by+night.;Line-by-line+curated+Android+development." alt="Typing Animation" />
+</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -9,19 +15,17 @@
 </p>
 
 <p align="center">
-  <strong>"Architecting at the intersection of QA Automation and AI."</strong>
+  I’m an Automation Test Lead who genuinely loves the grind of End-to-End development. I use AI as a high-speed compiler, but I own the architecture. I don't just prompt—I engineer, refactor, and ship production-grade logic.
 </p>
 
-<p align="center">
-  I am an <strong>Automation Test Lead</strong> by profession and a <strong>Technical Architect</strong> by passion. I leverage LLMs to accelerate development, but I personally oversee the architecture—refining every line of code to ensure production-grade logic and security.
-</p>
+</div>
 
 ---
 
 ## 🚀 What I'm Building
 
-### 📱 BlockBook (In Stealth)
-**Architect & Lead Developer**
+### 📱 BlockBook (Active Development)
+**Solo Architect & Developer**
 * **The Mission:** A high-integrity residential management platform for Android.
 * **The Logic:** Custom invite-only onboarding with a unique `Building + Area + Pincode` validation to ensure zero data duplication.
 * **Future:** Expanding from a native Android core to a cross-platform ecosystem.
@@ -33,12 +37,12 @@
 
 ---
 
-## 🛠 Tech Stack (The "Line-by-Line" Quality)
+## 🛠 Tech Stack 
 
 | Category | Tools & Frameworks |
 | :--- | :--- |
 | **QA Core** | Java, Selenium, TestNG, Framework Architecture |
-| **Backend** | Python, FastAPI, Google Apps Script |
+| **Backend** | Python, FastAPI, Firebase, GAS |
 | **AI/ML** | Self-hosted Llama & Gemma, Prompt Engineering |
 | **Mobile** | Native Android Development |
 
@@ -48,6 +52,6 @@
 > "AI and I curate the draft; I provide the direction. I don't just generate—I fix, I refactor, and I lead."
 
 ---
-<p align="center">
-  <strong>📫 Connect with me:</strong> <a href="mailto:ragav_25@hotmail.com">ragav_25@hotmail.com</a>
-</p>
+<div align="center">
+  <strong>📫 Drop a line:</strong> <a href="mailto:ragav_25@hotmail.com">ragav_25@hotmail.com</a>
+</div>
